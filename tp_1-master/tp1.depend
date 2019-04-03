@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1536065446 source:c:\users\nico\music\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1536066231 c:\users\nico\music\tp1\funciones.h
+
+1536065405 source:c:\users\nico\music\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536163499 source:c:\users\nico\documents\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536144034 c:\users\nico\documents\tp1\funciones.h
+
+1536144747 source:c:\users\nico\documents\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1536163499 source:c:\users\nico\desktop\ibera\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536144034 c:\users\nico\desktop\ibera\tp1\funciones.h
+
